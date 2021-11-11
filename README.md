@@ -12,6 +12,9 @@ Each folder in this repository will contain a different project and may contain 
 >   This random number generator method consists in using an initial number as a seed
 >and use an iterative equation that shifts and calculates XOR between the number digits.
 
+![image](https://user-images.githubusercontent.com/51878106/141319324-8bfa2c3e-db2a-4126-ac29-1158f751be59.png)
+
+
 ## Pallet Load
 > Pallet load is a NP-Complete problem that consists in place the maximum
 >number of objects into a pallet.
