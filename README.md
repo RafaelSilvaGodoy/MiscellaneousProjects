@@ -16,7 +16,7 @@ Each folder in this repository will contain a different project and may contain 
 
 
 ## Pallet Load
-> Pallet load is a NP-Complete problem that consists in place the maximum
+> Pallet load is a NP-Complete problem that consists in placing the maximum
 >number of objects into a pallet.
 >
 > In this notebook the algorithm has some constraints. It was build to fit rectangular boxes
