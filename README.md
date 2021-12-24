@@ -26,8 +26,8 @@ Each folder in this repository will contain a different project and may contain 
 ![image](https://user-images.githubusercontent.com/51878106/141319139-fce49ba7-e4a5-4882-9be2-54ff93f423da.png)
 
 ## Gamma and Beta Functions
-> The Gamma function is the function that represents the **factorial function**, used to calculate all numbers factorials, such as
->the famous $\frac{1}{2}$! = $\Gamma$($\frac{3}{2}$) = $\frac{\sqrt{\pi}}{2}$ .
+> The Gamma function is the function that represents the **factorial function**, used to calculate all numbers factorials, such as the famous
+$\frac{1}{2}$! = $\Gamma$($\frac{3}{2}$) = $\frac{\sqrt{\pi}}{2}$ .
 >
 > The Beta function is a function close related to the Gamma function and it is used to represent scattering amplitude, used on string theory.
 > 
