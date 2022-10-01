@@ -33,3 +33,10 @@ Each folder in this repository will contain a different project and may contain 
 > The Beta function is a function close related to the Gamma function and it is used to represent scattering amplitude on string theory.
 
 ![image](https://user-images.githubusercontent.com/51878106/147366866-1f0652e9-140c-4689-aa66-0eb1bc9a8eae.png)
+
+
+## Ulam Spiral
+> The Ulam spiral or prime spiral is a graphical depiction of the set of prime numbers. It is constructed by    
+>writing the positive integers in a square spiral and specially marking the prime numbers.
+
+![](Espira_%20de_Ulam/Ulam_spiral.png)
